@@ -63,6 +63,9 @@ nav {
   font-weight: bold;
 }
 
+nav h1 {
+  font-size: 3rem;
+}
 menu {
   background-color: #054c37;
   grid-row: 1/-1;
